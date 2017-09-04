@@ -1,0 +1,3 @@
+[submodule "EmbeddedDbNeo4j"]
+	path = EmbeddedDbNeo4j
+	url = git@github.com:techbrightworks/EmbeddedDbNeo4j.git
