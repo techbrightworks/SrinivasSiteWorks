@@ -13,3 +13,6 @@
 [submodule "SpringMVCScalaWebIntializer"]
 	path = SpringMVCScalaWebIntializer
 	url = git@github.com:techbrightworks/SpringMVCScalaWebIntializer.git
+[submodule "SpringMVCWebInitializer"]
+	path = SpringMVCWebInitializer
+	url = git@github.com:techbrightworks/SpringMVCWebInitializer.git
