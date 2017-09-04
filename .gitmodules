@@ -16,3 +16,6 @@
 [submodule "SpringMVCWebInitializer"]
 	path = SpringMVCWebInitializer
 	url = git@github.com:techbrightworks/SpringMVCWebInitializer.git
+[submodule "TurningMovingImage"]
+	path = TurningMovingImage
+	url = git@github.com:techbrightworks/TurningMovingImage.git
