@@ -7,3 +7,6 @@
 [submodule "FullStackCamelWorks"]
 	path = FullStackCamelWorks
 	url = git@github.com:techbrightworks/FullStackCamelWorks.git
+[submodule "Java8AsynchronousExample"]
+	path = Java8AsynchronousExample
+	url = git@github.com:techbrightworks/Java8AsynchronousExample.git
