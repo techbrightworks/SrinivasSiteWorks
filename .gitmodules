@@ -4,3 +4,6 @@
 [submodule "EmbeddedDBServerHibernate"]
 	path = EmbeddedDBServerHibernate
 	url = git@github.com:techbrightworks/EmbeddedDBServerHibernate.git
+[submodule "FullStackCamelWorks"]
+	path = FullStackCamelWorks
+	url = git@github.com:techbrightworks/FullStackCamelWorks.git
