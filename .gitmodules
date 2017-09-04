@@ -10,3 +10,6 @@
 [submodule "Java8AsynchronousExample"]
 	path = Java8AsynchronousExample
 	url = git@github.com:techbrightworks/Java8AsynchronousExample.git
+[submodule "SpringMVCScalaWebIntializer"]
+	path = SpringMVCScalaWebIntializer
+	url = git@github.com:techbrightworks/SpringMVCScalaWebIntializer.git
