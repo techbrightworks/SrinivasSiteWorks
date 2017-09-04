@@ -1,3 +1,6 @@
 [submodule "EmbeddedDbNeo4j"]
 	path = EmbeddedDbNeo4j
 	url = git@github.com:techbrightworks/EmbeddedDbNeo4j.git
+[submodule "EmbeddedDBServerHibernate"]
+	path = EmbeddedDBServerHibernate
+	url = git@github.com:techbrightworks/EmbeddedDBServerHibernate.git
