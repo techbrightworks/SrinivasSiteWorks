@@ -25,3 +25,6 @@
 [submodule "RestServiceSpringMVC"]
 	path = RestServiceSpringMVC
 	url = git@github.com:techbrightworks/RestServiceSpringMVC.git
+[submodule "SpringBootRestService"]
+	path = SpringBootRestService
+	url = git@github.com:techbrightworks/SpringBootRestService.git
